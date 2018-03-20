@@ -43,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/webapp-srl/pdfjs-dist.git"
+    "url": "git+https://webapp-srl@github.com/webapp-srl/pdfjs-dist.git"
   },
   "license": "Apache-2.0"
 }
